@@ -1,0 +1,10 @@
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\bin\Debug\fukuv0527.exe.config
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\bin\Debug\fukuv0527.exe
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\bin\Debug\fukuv0527.pdb
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.csprojAssemblyReference.cache
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.Form1.resources
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.Properties.Resources.resources
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.csproj.GenerateResource.cache
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.exe
+C:\Users\student\Documents\1_2_09\fukuv0527\fukuv0527\obj\Debug\fukuv0527.pdb
